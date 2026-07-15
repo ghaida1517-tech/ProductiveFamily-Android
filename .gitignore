@@ -21,3 +21,10 @@ captures/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Signing and secret files
+*.jks
+*.keystore
+key.properties
+serviceAccountKey.json
+*service-account*.json
