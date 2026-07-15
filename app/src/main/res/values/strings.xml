@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Productive Family</string>
+    <string name="app_name_in_splash_activity">Productive Families</string>
+    <string name="version_number">Version 1.0</string>
+    <string name="username_hint">Username</string>
+    <string name="sign_in_to_continue">Sign In to continue</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+    <string name="todo_login">TODO_Login</string>
+    <string name="password_hint">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="go">Login</string>
+    <string name="new_user_sign_up">New User? Sign UP</string>
+    <string name="welcom">Welcom</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="signup_to_start_your_new_journey">Let\'s get started</string>
+    <string name="haneen_alzahrani">Haneen Alzahrani</string>
+    <string name="user_type">User Type</string>
+</resources>
