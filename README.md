@@ -75,6 +75,7 @@ The following screenshots are from the original tested graduation-project protot
   <img src="docs/screenshots/authentication/03-phone-verification.jpg.jpg" width="230" alt="Phone verification screen">
 </p>
 
+
 ### Customer Experience
 
 <p align="center">
